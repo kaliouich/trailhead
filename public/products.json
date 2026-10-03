@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Ridgeline 45L Pack", "price": 189, "category": "Packs" },
+  { "id": 2, "name": "Summit Down Jacket", "price": 249, "category": "Layers" },
+  { "id": 3, "name": "Basecamp 2P Tent", "price": 379, "category": "Shelter" },
+  { "id": 4, "name": "Trailrunner GTX Shoe", "price": 165, "category": "Footwear" },
+  { "id": 5, "name": "Alpine Trekking Poles", "price": 89, "category": "Accessories" },
+  { "id": 6, "name": "Nightfall Sleeping Bag", "price": 214, "category": "Shelter" }
+]
