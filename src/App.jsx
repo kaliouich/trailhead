@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 // A relative path keeps the request on the same origin as the page, so the browser
 // asks for no CORS permission. Replacing this with a full URL on another host is
 // what turns the same fetch into a cross-origin request.
-const CATALOG_URL = "/products.json";
+const CATALOG_URL = "http://16.192.236.253/products";
 
 function ProductCard({ product }) {
   return (
